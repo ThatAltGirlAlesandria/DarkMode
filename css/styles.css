@@ -10,3 +10,12 @@
     background-color: peachpuff;
   }
 }
+
+.column {
+  width: 30%;
+
+}
+
+#grad {
+  background-color: linear-gradient(to bottom right, #bdc3c7, #2c3e50);
+}
