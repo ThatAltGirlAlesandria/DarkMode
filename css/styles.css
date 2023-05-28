@@ -13,6 +13,7 @@
 
 .body {
   background-color: linear-gradient(to bottom right, lightgrey, #2c3e50);
+  margin: 2%;
 }
 
 .column {
@@ -22,4 +23,39 @@
 
 #img {
   float: right;
+}
+
+.aboutMe{
+  width: 65%;
+  box-sizing: border-box;
+  padding: 5px;
+  border: solid black;
+}
+
+.animals{
+  width:47%;
+  box-sizing: border-box;
+  padding: 5px;
+  border: solid black;
+  float: left;
+}
+
+.music{
+  width:47%;
+  box-sizing: border-box;
+  padding: 5px;
+  border: solid black;
+  float: right;
+}
+
+.hobbies{
+  width:47%;
+  box-sizing: border-box;
+  padding: 5px;
+  border: solid black;
+  float: left;
+}
+
+.highlight{
+  color: blue;
 }
