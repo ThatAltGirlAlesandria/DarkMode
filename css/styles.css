@@ -24,6 +24,9 @@
 
 #img {
   float: right;
+  width: 16%;
+  box-sizing: border-box;
+  border: solid black;
 }
 
 .aboutColumns{
@@ -31,7 +34,7 @@
 }
 
 .aboutMe{
-  width: 65%;
+  width: 82%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -39,7 +42,6 @@
 }
 
 .animals{
-  width:33%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -47,7 +49,6 @@
 }
 
 .music{
-  width:33%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -55,7 +56,6 @@
 }
 
 .hobbies{
-  width:33%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -67,7 +67,6 @@
 }
 
 .code{
-  width:47%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -75,7 +74,6 @@
 }
 
 .apps {
-  width:47%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
@@ -83,7 +81,6 @@
 }
 
 .webPages{
-  width:90%;
   box-sizing: border-box;
   padding: 5px;
   border: solid black;
